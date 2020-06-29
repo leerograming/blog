@@ -1,0 +1,10 @@
+[submodule "vanilla-bootstrap-hugo-theme"]
+	path = vanilla-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
+[submodule "themes/vanilla-bootstrap-hugo-theme"]
+	path = themes/vanilla-bootstrap-hugo-theme
+	url = https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = https://github.com/leerograming/leerograming.github.io.git
+	branch = master
