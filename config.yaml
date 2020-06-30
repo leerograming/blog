@@ -3,7 +3,7 @@ languageCode: ko-kr
 defaultContentLanguage: en-us
 title: Daily-Develog
 theme: vanilla-bootstrap-hugo-theme
-googleAnalytics: 
+googleAnalytics: G-E053FKFPFF
 
 taxonomies:
   tag: tags
