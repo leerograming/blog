@@ -21,4 +21,15 @@ tags:
 - classpath scanning
 
 추가) scanning을 통한 bean 등록이 궁금하면 springframwork.context.annotation의 <a href="https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html">classpathscanningcandidatecomponentprovider.scanCandidateComponents</a> 참고하기(springboot 2.2.2 기준)
+ 
+  ---------------------------------------------------
+    
+<script src="https://utteranc.es/client.js"
+        repo="leerograming/leerograming-comment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 

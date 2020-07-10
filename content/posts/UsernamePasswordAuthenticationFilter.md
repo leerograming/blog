@@ -17,3 +17,13 @@ tags:
 
 4. retrieveUser()에서 return 받은 UserDetails 객체와 authenticationToken 값을 additionalAuthenticationChecks()에서 비교(여기서 비밀번호 검증이 이루어진다.)
 {{< gist leerograming 626785c59db9bd6fda96d0dd41f81f84 >}}
+ 
+  ---------------------------------------------------
+    
+<script src="https://utteranc.es/client.js"
+        repo="leerograming/leerograming-comment"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

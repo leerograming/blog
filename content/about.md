@@ -7,8 +7,7 @@ date:  "2020-04-09"
 
 <Center><h6><del>화목한 가정에서 1남 1녀 장남으로 태어난</del></h6></Center>
 <Center>31세 3년차 front-end 개발자. <br>
-3년차가 지녀야 할 역량이 무엇인지 한참 고민중<br>
-현재 공부중 : React, spring-Security<br>
+
 
 </Center>
 <center><details>
